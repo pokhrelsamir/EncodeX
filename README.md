@@ -46,11 +46,19 @@ Example:
 
 ---
 
-## 🚀 Live Demo
+# 🌐 Live Demo
 
-> Add your deployed application URL here.
+Try the fully deployed SubnetX application:
 
-**Live Demo:** `https://your-username.github.io/EncodeX/`
+<div align="center">
+
+<a href="https://pokhrelsamir.github.io/EncodeX/">
+  <img src="https://img.shields.io/badge/%F0%9F%9A%80%20Open%20EncodeX-Live%20Demo-6366f1?style=for-the-badge" alt="Open EncodeX Live Demo">
+</a>
+
+<br>
+
+</div>
 
 ---
 
