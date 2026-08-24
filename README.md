@@ -301,7 +301,6 @@ There is:
 
 This makes EncodeX suitable for quick local text transformation without sending the entered content to a remote service.
 
-> **Note:** Do not treat EncodeX encoding methods as encryption. Base64, URL encoding, Hexadecimal, and Binary are encoding/representation formats, not cryptographic security mechanisms.
 
 ---
 
@@ -402,11 +401,26 @@ See the [`LICENSE`](LICENSE) file for complete license information.
 
 ---
 
-## 👨‍💻 Author
+# 👨‍💻 Author
 
-**Samir Pokhrel**
+<div align="center">
 
-Computer Science & Information Technology student and developer interested in building practical software tools and web applications.
+### Samir Pokhrel
+
+**B.Sc. CSIT Student | Web Developer | Networking Enthusiast**
+
+Built using **HTML, CSS, and JavaScript**
+
+<br>
+
+<a href="https://github.com/pokhrelsamir">
+  <img src="https://img.shields.io/badge/GitHub-pokhrelsamir-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+<a href="https://www.linkedin.com/in/samirpokhrel/">
+  <img src="https://img.shields.io/badge/LinkedIn-Samir%20Pokhrel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
+</div>
 
 ---
 
@@ -422,8 +436,14 @@ If you find EncodeX useful:
 
 ---
 
+<div align="center">
+
 ## 🔤 EncodeX
 
 **Encode it. Decode it. Understand it.**
 
-> Built with ❤️ using HTML, CSS & JavaScript.
+
+<br>
+
+
+</div>
