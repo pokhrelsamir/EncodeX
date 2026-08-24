@@ -33,16 +33,9 @@ Just open EncodeX, enter your text, choose an encoding method, and transform it 
 
 ## 🖼️ Screenshot
 
-
-
-```text
-docs/
-└── screenshot.png
-```
-
-Example:
-
-![EncodeX Screenshot](docs/screenshot.png)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a7d38131-fb7a-4465-b393-83024ea5f95c" alt="EncodeX Landing Page" width="100%">
+</p>
 
 ---
 
